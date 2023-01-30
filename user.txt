@@ -1,0 +1,10 @@
+name: 123
+surname: 213ad
+lastname: asd
+password: 123
+age: 12
+birthday: 2022-03-30
+genre: man
+description: sadad
+role: guest
+email: asd@mail.com
